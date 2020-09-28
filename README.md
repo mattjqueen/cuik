@@ -1,2 +1,2 @@
 # cuik
-Container User Interface Kit
+Container UI Kit
